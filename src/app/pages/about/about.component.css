@@ -1,0 +1,11 @@
+p {
+  margin: 0.5rem 0;
+}
+
+ul {
+  margin: 1rem 0;
+}
+
+ul li::marker {
+  color: green;
+}
